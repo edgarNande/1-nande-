@@ -1,6 +1,6 @@
 # 1-TAREA 1 EXCEL- 
 
-en este proyecto analizamos una base de datos en excel 
+En este proyecto se da bajo el contexto de la primera tarea práctica en Excel, en la cual, analizamos una base de datos.
 
 ## Contexto
 
