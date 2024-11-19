@@ -16,7 +16,8 @@ Transformar y visualizar los datos de manera que permita a los propietarios de l
 Se registraron 149,117 transacciones del 1 de enero al 30 de junio 
  ¿Qué productos y categorías de productos
 
-  
+  ![image](https://github.com/user-attachments/assets/25652b54-6e14-4b43-a5d5-da2c0cd49eba)
+
 **Conclusiones**
 
 **1. c1**
