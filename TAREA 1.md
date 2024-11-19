@@ -2,7 +2,7 @@
 
 en este proyecto analizamos una base de datos en excel 
 
-## contexto
+## Contexto
 
 este conjunto de datos contines informacion importante duramnte meses 
 
