@@ -11,8 +11,8 @@ Transformar y visualizar los datos de manera que permita a los propietarios de l
 
 ### Pasos a seguir
 
--a) Preparar los datos para el análisis.
---1.- El primer objetivo es explorar el conjunto de datos para familiarizarte con ellos. ¿Cuántas transacciones se registraron y durante qué período de tiempo?
+- a) Preparar los datos para el análisis.
+- 1.- El primer objetivo es explorar el conjunto de datos para familiarizarte con ellos. ¿Cuántas transacciones se registraron y durante qué período de tiempo?
 Se registraron 149,117 transacciones del 1 de enero al 30 de junio 
  ¿Qué productos y categorías de productos
 
