@@ -9,7 +9,7 @@ Para comprender mejor el funcionamiento operativo de la cafetería ""CityBlend""
 ### Objetivo General 
 Transformar y visualizar los datos de manera que permita a los propietarios de la cafetería analizar patrones y detectar oportunidades de mejora para el negocio a partir de los datos recopilados.
 
-##Pasos a seguir
+###Pasos a seguir
 
 -a) Preparar los datos para el análisis.
 --1.- El primer objetivo es explorar el conjunto de datos para familiarizarte con ellos. ¿Cuántas transacciones se registraron y durante qué período de tiempo?
