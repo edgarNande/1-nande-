@@ -68,11 +68,17 @@ Estos puntos destacan patrones de ventas, productos de mayor rendimiento y oport
 
 **Conclusiones**
 
-**1. c1**
+Las instrucciones para el análisis de datos de "CityBlend" están diseñadas para convertir datos brutos en información útil para la toma de decisiones estratégicas. Comienzan con la organización de datos mediante cálculos adicionales y formatos condicionales, lo que facilita el reconocimiento de patrones y segmentaciones visuales. La exploración incluye el uso de tablas dinámicas para resumir transacciones, ingresos y categorías de productos, lo que permite identificar tendencias clave. La visualización con gráficos y dashboards proporciona una representación clara y accesible de los datos, ayudando a destacar oportunidades de mejora. Este enfoque combina herramientas analíticas y estrategias prácticas para transformar los datos en un recurso valioso para la gestión del negocio y la planificación futura.
 
-2. c2
+
+
+
+
+
+
+
+
   
-3. c3
 
-![image](https://github.com/user-attachments/assets/bd20364d-1ccc-42dc-8835-00e5e436c377)
+
     
